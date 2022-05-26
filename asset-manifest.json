@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/park2do/testing.git/static/css/main.073c9b0a.css",
+    "main.js": "/park2do/testing.git/static/js/main.d6f167d1.js",
+    "static/js/787.9b06cee2.chunk.js": "/park2do/testing.git/static/js/787.9b06cee2.chunk.js",
+    "static/media/logo.svg": "/park2do/testing.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/park2do/testing.git/index.html",
+    "main.073c9b0a.css.map": "/park2do/testing.git/static/css/main.073c9b0a.css.map",
+    "main.d6f167d1.js.map": "/park2do/testing.git/static/js/main.d6f167d1.js.map",
+    "787.9b06cee2.chunk.js.map": "/park2do/testing.git/static/js/787.9b06cee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d6f167d1.js"
+  ]
+}
